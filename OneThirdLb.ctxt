@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=OneThirdLb(Burger)
+comment1.params=
+comment1.target=double\ getCost()
+comment2.params=
+comment2.target=int\ toppingCounter()
+comment3.params=
+comment3.target=int\ sauceCounter()
+comment4.params=
+comment4.target=int\ cheeseCounter()
+numComments=5
